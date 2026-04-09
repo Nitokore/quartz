@@ -6,8 +6,10 @@
   - [[Campamento Eldari]]
   - [[poblado boscoso]]
   - [[El nemetón]]
-  - [[Huesos Salvajes.canvas]](mazmorra)
-  - [[Los Restos de Alva]](mazmorra)
+  - [[Huesos Salvajes.canvas]]
+  - [[Los Restos de Alva]]
+  - [[Bosque de glain]]
+  - [[Cueva de CaidaOscura]]
 ## Personaje 
 #Pnj (personajes no jugadores)
   - [[Adda]] 
@@ -15,7 +17,7 @@
   - [[Parcell Osmund]]
 #Pj (personajes jugadores)
    - [[Doigherr]]
-   - [[Krohm]]
+   - [[Pellejo]]
    - [[Einheriar]]
 ## Facción
 
