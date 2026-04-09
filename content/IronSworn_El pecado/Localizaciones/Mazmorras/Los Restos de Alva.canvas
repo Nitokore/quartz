@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"e31a1353a20857ce","type":"text","text":"En esta cruel tierra, no hay escasez de muertos que deban ser sepultados. Algunos túmulos son simples criptas para una familia o asentamiento. Otros son más elaborados o extensos, adentrándose bien en las profundidades de la tierra. Algunos montículos inconspicuos, su roca y tierra desgastadas por el tiempo, marcan una entrada a tumbas imposiblemente laberínticas construidas por pueblos hace mucho olvidados. Incluso los más antiguos de estos sitios aún resuenan con la memoria y el poder de vidas una vez vividas, batallas una vez libradas, amores ganados o perdidos, y votos incumplidos.","x":-279,"y":-258,"width":278,"height":547},
+		{"id":"57c202c139fb96aa","type":"file","file":"lore/Los restos de Alva(mazmorra).md","x":-696,"y":-257,"width":400,"height":994},
+		{"id":"f08f8846d1cb663f","type":"file","file":"Archivos/Imagenes de archivo/Pasted image 20260331202356.png","x":8,"y":-255,"width":208,"height":360},
+		{"id":"59532732e6d61e74","type":"text","text":"Un sitio fortificado es mantenido y defendido por una fuerza enemiga. Podría ser un campamento enemigo, un puesto de avanzada, una fortaleza o un territorio cuidadosamente custodiado. Infiltrarse en este lugar requiere cautela y astucia. Es posible que te veas obligado a evitar a los habitantes, centinelas y patrullas. Revelarte o causar una perturbación llamará la atención de los habitantes, quizás obligándote a luchar para alcanzar tu objetivo.","x":-266,"y":301,"width":264,"height":453},
+		{"id":"a356b80964e7e51c","type":"file","file":"Archivos/Imagenes de archivo/Pasted image 20260331202541.png","x":11,"y":300,"width":232,"height":399},
+		{"id":"dc5f925ba39af76c","type":"file","file":"Crónicas/Crónica en solitario los Los restos de Alva.md","x":-1120,"y":-261,"width":400,"height":985},
+		{"id":"f238e33b28f4f7ac","type":"text","text":"#localizacion \n#mazmorra","x":-1376,"y":-242,"width":250,"height":60}
+	],
+	"edges":[]
+}
