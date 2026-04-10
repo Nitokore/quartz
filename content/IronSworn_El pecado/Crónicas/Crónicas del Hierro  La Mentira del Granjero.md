@@ -1,6 +1,6 @@
 #crónica 
 
-Personajes Jugadores : [[Krohm]] y [[Doigherr]]
+Personajes Jugadores : [[Pellejo]] y [[Doigherr]]
 ## 🌲 Crónicas del Hierro: La Mentira del Granjero
 
 Un susurro inquietante recorre las Tierras del Hierro:  
@@ -82,7 +82,6 @@ Y quizá… manipuladas.
 ¿O había fuerzas aún más antiguas en juego?
 Buscamos un pepino del demonio para atraer a los kappas aunque todavía no lo hemos hecho.
 ![[Pasted image 20260330234059.png]]
----
 
 ## 🌿 La Tejedora del Nemetón
 

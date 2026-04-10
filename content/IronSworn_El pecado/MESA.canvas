@@ -1,15 +1,14 @@
 {
 	"nodes":[
-		{"id":"13fa1677044f3453","type":"file","file":"Archivos/Imagenes de archivo/Pasted image 20260330034102.png","x":-3835,"y":1663,"width":572,"height":423},
-		{"id":"bbb15ee654ed6e72","type":"file","file":"Archivos/Imagenes de archivo/Pasted image 20260330034003.png","x":-3827,"y":1213,"width":565,"height":415},
-		{"id":"a709f69d2b89168e","type":"file","file":"Archivos/documentos/Ironsworn-Delve-Rulebook.pdf","x":-3820,"y":2146,"width":559,"height":810},
-		{"id":"ff324c20e76e1cdc","type":"file","file":"Archivos/documentos/Ironsworn-Rulebook-Spreads.pdf","x":-3249,"y":2140,"width":456,"height":338},
-		{"id":"c51205029787a365","type":"file","file":"Archivos/Imagenes de archivo/Pasted image 20260406183617.png","x":-3249,"y":1297,"width":614,"height":792},
-		{"id":"f218331f2010563d","type":"file","file":"Localizaciones/MAPA.md","x":-2608,"y":1301,"width":303,"height":426},
-		{"id":"fa088780071415c4","type":"text","text":"## 🧭 **Cómo conecta TODO**\n\n- Hel → dominio de los no reclamados\n- Nigromantes → manipulan lo que debería ir a Hel\n- Orden de la Telaraña → intenta mantener equilibrio y han eclosionado a Coniuratio.\n- Rectos → intentan imponer orden único","x":-2598,"y":1741,"width":350,"height":345},
-		{"id":"7490707da5a14012","type":"file","file":"Movimientos y Oraculos.canvas","x":-2285,"y":1289,"width":316,"height":204,"color":"4"},
-		{"id":"5f65de8eed4d2bc3","type":"file","file":"Facciones y alianzas.md","x":-2284,"y":1526,"width":312,"height":191},
-		{"id":"108b31d4055547b8","type":"file","file":"Archivos/documentos/Ironsworn.pdf","subpath":"#page=144","x":-2771,"y":2141,"width":480,"height":798}
+		{"id":"ff324c20e76e1cdc","type":"file","file":"Archivos/documentos/Ironsworn-Rulebook-Spreads.pdf","x":-3815,"y":2112,"width":456,"height":338},
+		{"id":"13fa1677044f3453","type":"file","file":"Archivos/Imagenes de archivo/Pasted image 20260330034102.png","x":-4401,"y":1635,"width":572,"height":423},
+		{"id":"c51205029787a365","type":"file","file":"Archivos/Imagenes de archivo/Pasted image 20260406183617.png","x":-3815,"y":1269,"width":614,"height":792},
+		{"id":"bbb15ee654ed6e72","type":"file","file":"Archivos/Imagenes de archivo/Pasted image 20260330034003.png","x":-4393,"y":1185,"width":565,"height":415},
+		{"id":"108b31d4055547b8","type":"file","file":"Archivos/documentos/Ironsworn.pdf","subpath":"#page=141","x":-3337,"y":2113,"width":495,"height":798},
+		{"id":"fa088780071415c4","type":"text","text":"## 🧭 **Cómo conecta TODO**\n\n- Hel → dominio de los no reclamados\n- Nigromantes → manipulan lo que debería ir a Hel\n- Orden de la Telaraña → intenta mantener equilibrio y han eclosionado a Coniuratio.\n- Rectos → intentan imponer orden único","x":-3164,"y":1713,"width":346,"height":345},
+		{"id":"7490707da5a14012","type":"file","file":"Movimientos y Oraculos.canvas","x":-3160,"y":1255,"width":316,"height":204,"color":"4"},
+		{"id":"5f65de8eed4d2bc3","type":"file","file":"Facciones y alianzas.md","x":-3159,"y":1492,"width":312,"height":191},
+		{"id":"a709f69d2b89168e","type":"file","file":"Archivos/documentos/Ironsworn-Delve-Rulebook.pdf","x":-4412,"y":2084,"width":580,"height":810}
 	],
 	"edges":[]
 }

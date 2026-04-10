@@ -1,4 +1,5 @@
 #entidades
+
 ## localización
  - #localizacion 
   - [[poblado boscoso]]
@@ -6,17 +7,24 @@
   - [[Campamento Eldari]]
   - [[poblado boscoso]]
   - [[El nemetón]]
-  - [[Huesos Salvajes.canvas]](mazmorra)
-  - [[Los Restos de Alva]](mazmorra)
+  - [[Huesos Salvajes.canvas]]
+  - [[Los Restos de Alva]]
+  - [[Bosque de glain]]
+  - [[Cueva de CaidaOscura]]
+  - [[Xenokoth]]
 ## Personaje 
-#Pnj (personajes no jugadores)
+#Pnj 
   - [[Adda]] 
   - [[El Karl]]
   - [[Parcell Osmund]]
-#Pj (personajes jugadores)
+   - [[Hermana de la araña]]
+   - [[Parcell Osmund]]
+   - [[Mara]]
+#Pj 
    - [[Doigherr]]
-   - [[Krohm]]
+   - [[Pellejo]]
    - [[Einheriar]]
+
 ## Facción
 
 #Faccion 
@@ -28,12 +36,16 @@
  - [[Crónicas del Hierro  La Mentira del Granjero]]
  - [[Crónica en solitario los Los restos de Alva]]
  - [[Crónica el paramo de los huesos salvajes]]
+ - [[Crónica en solitario el icor de los caídos]]
+ - [[Crónica en solitario el nacimiento de  Coniuratio]]
 ## Lore
- - [[Inicio]]  
+ - [[EL MUNDO]]  
  - [[Orden de la Telaraña]]
  - [[el pacto de la telaraña]]
- - [[Los restos de Alva(mazmorra)]])
+ - [[Los restos de Alva(mazmorra)]]
  - [[guardia del poblado boscoso]]
+ - [[Manerbünde]]
+ - [[Dioses Alienigenas]]
  
 # Artefactos
  - [[don de Hel]]

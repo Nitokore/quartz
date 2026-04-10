@@ -7,9 +7,9 @@ Ya me rechazó una vez.”*
 
 tipo: personaje
 subtipo: jugador
-faccion: [[guardia del poblado boscoso]]
+facción: [[guardia del poblado boscoso]]
 
-Tiene un brazo magitech que fué creado por un herrero que solo aparece las noches de luna doble y al qué hay que rendirle un sacrifico de sangre pues es hijo de la diosa Hela ( hay que recordar que el politeísmo esta prohibido en esta sociedad así que el culto deberá mantenerlo en secreto)
+Tiene un brazo magitech que fue creado por un herrero que solo aparece las noches de luna doble (aunque nadie le cree) y al qué hay que rendirle un sacrifico de sangre pues es hijo de la diosa Hela ( hay que recordar que el politeísmo esta prohibido en esta sociedad así que el culto deberá mantenerlo en secreto aparte del pequeño chanchullo de la mannerbünde)
 ## 🦾 **El brazo (redefinido con Hel)**
 
 No es tecnología pura.
@@ -35,12 +35,9 @@ y recogido por algo más antiguo.
 
 ## 🕸️ **Cómo encaja con los Rectos**
 
-Aquí tienes conflicto gordo:
-
-👉 Si descubren esto:
 
 - Einherier = herejía viviente
-- Krohm = cómplice por asociación
+- Pellejo y Doigher = cómplice por asociación
 - El grupo = potencialmente marcado
 
 Porque Hel no debería:
@@ -48,24 +45,14 @@ Porque Hel no debería:
 - existir
 - responder
 - ni intervenir
+entonces Einherier tampoco. . .
 
----
 
-## 🌫️ **Cómo introducirlo sin romper nada**
-
-No lo sueltes todo.
-
-Hazlo así:
-
-### 1. Sospecha
-
-Alguien del culto de los Rectos ve el brazo y se incomoda.
+Alguien del culto de los Rectos vió su brazo y dijo. . .
 
 > “Eso… no está bendecido.”
 
----
-
-### 2. Reacción del mundo
+el mundo reacciona ante el brazo :
 
 - animales inquietos cerca de Einherier
 - fuego que no arde igual

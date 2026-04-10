@@ -7,20 +7,18 @@ facción:[[Eldaris]]
 Tejedora de runas
 Bruja respetada por los Rectos.
 Nadie sabe por qué.
-Sus ojos parecen enfermos.(Por que estaba poseída y drogada por una entidad)
+Sus ojos parecen enfermos.(Por que estaba poseída y drogada por una entidad[[El poseedor de Adda]])
 ![[Adda_oracle.png]]
 
-Adda es un personaje misterioso y reservado, experta en  runas, cuya habilidad para interpretar los mensajes ocultos ha resaltado como notable. Se considera a sí misma una bruja respetada por sus alianzas con los Rectos.
+Adda es un personaje misterioso y reservado, experta en  runas, cuya habilidad para interpretar los mensajes ocultos ha resaltado como notable. Se considera a sí misma una bruja respetada por sus alianzas con los Rectos. Su habilidad para interpretar los mensajes ocultos ha sido notada por muchos.
+
 
 Adda puede iniciar  en las sendas y los dones de los dioses antiguos
 después de ganarse su confianza:
 
+Es respetada por las facciones oscuras, especialmente por los [[Eldaris]]. Adda ha ganado la confianza de aquellos que buscan el conocimiento oculto.
 
-En el Lago Negro, un lugar sombrío y misterioso, vive una figura intrigante llamada Adda. Esta Tejedora de Runas es un personaje enigmático y reservado, cuya habilidad para interpretar los mensajes ocultos ha sido notada por muchos.
-
-Adda se considera a sí misma una bruja respetada por las facciones oscuras, especialmente por los Elfos Oscuros. A pesar de su aspecto algo desgarrado y sus ojos que parecen enfermos, Adda ha ganado la confianza de aquellos que buscan el conocimiento oculto.
-
-Ella es una iniciada en las artes de los dioses antiguos, como Cthulhu y Shub-Niggurath, así como en las sombrías misteriosas runas. Sus estudios la han llevado a descubrir secretos profundos que muchos no pueden comprender.
+Ella es una iniciada en las artes de los dioses antiguos, como Cthulhu y Shub-Niggurath y los [[Dioses Nórdicos]]así como en las sombrías misteriosas runas. Sus estudios la han llevado a descubrir secretos profundos que muchos no pueden comprender.
 
 Si deseas conocer sus dones y aprendices, debes ganar su confianza y demostrar tu valía en el camino oscuro de las runas y los dioses antiguos.
 

@@ -1,6 +1,6 @@
 #crónica
 
-Personajes Jugadores : [[Krohm]], [[Doigherr]], [[Einheriar]]
+Personajes Jugadores : [[Pellejo]], [[Doigherr]], [[Einheriar]]
 ## 🌲 **Crónicas del Hierro — Los Huesos Salvajes**
 
 El hierro ya no pesa igual en las manos de Krohm.
