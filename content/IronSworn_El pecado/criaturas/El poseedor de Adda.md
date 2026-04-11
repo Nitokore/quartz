@@ -259,7 +259,7 @@ Y eso explica TODO:
 
 ---
 
-## 🎭 FRASES PARA ROLEO (te van a venir brutal)
+## 🎭 FRASES PARA ROLEO 
 
 Cuando lo interpretes:
 

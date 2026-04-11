@@ -1,15 +1,16 @@
 #entidades
 
 ## localización
- - #localizacion 
+
+ - - [[Bosque de glain]]
+  - [[El baluarte]]
+  - [[La costa]]
   - [[poblado boscoso]]
   - [[Pantano Negro]]
   - [[Campamento Eldari]]
   - [[poblado boscoso]]
   - [[El nemetón]]
   - [[Huesos Salvajes.canvas]]
-  - [[Los Restos de Alva]]
-  - [[Bosque de glain]]
   - [[Cueva de CaidaOscura]]
   - [[Xenokoth]]
 ## Personaje 
@@ -46,9 +47,11 @@
  - [[guardia del poblado boscoso]]
  - [[Manerbünde]]
  - [[Dioses Alienigenas]]
+ - [[Dioses Nórdicos y Celtas]]
  
 # Artefactos
  - [[don de Hel]]
  - [[saco araña]]
 # criaturas
  - [[El poseedor de Adda]]
+ - [[Primeros Nacidos]]

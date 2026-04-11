@@ -18,7 +18,7 @@ después de ganarse su confianza:
 
 Es respetada por las facciones oscuras, especialmente por los [[Eldaris]]. Adda ha ganado la confianza de aquellos que buscan el conocimiento oculto.
 
-Ella es una iniciada en las artes de los dioses antiguos, como Cthulhu y Shub-Niggurath y los [[Dioses Nórdicos]]así como en las sombrías misteriosas runas. Sus estudios la han llevado a descubrir secretos profundos que muchos no pueden comprender.
+Ella es una iniciada en las artes de los dioses antiguos, como Cthulhu y Shub-Niggurath y los [[Dioses Nórdicos y Celtas]]así como en las sombrías misteriosas runas. Sus estudios la han llevado a descubrir secretos profundos que muchos no pueden comprender.
 
 Si deseas conocer sus dones y aprendices, debes ganar su confianza y demostrar tu valía en el camino oscuro de las runas y los dioses antiguos.
 

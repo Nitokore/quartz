@@ -1,4 +1,4 @@
-
+#lore 
 ![[Pasted image 20260402031901.png]]
 
 

@@ -1,3 +1,4 @@
+#localizacion 
 Taberna del Ogro Azul
 
 Descripción: Situada en lo alto de una gran colina, con vistas panorámicas del paisaje circundante y un lago cercano.
