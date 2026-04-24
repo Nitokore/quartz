@@ -1,2 +1,0 @@
-#lore 
-¿Quién es realmente el señor del hierro? a muchos les suena a maniqueo a un simple invento para calmar las mentes escocidas de aquellos que sobrevivieron a la represalia y poder sembrar un nuevo orden 

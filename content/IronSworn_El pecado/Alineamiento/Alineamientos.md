@@ -1,4 +1,0 @@
-
-#caótico 
-#neutral 
-#orden 
