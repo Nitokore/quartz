@@ -16,11 +16,11 @@ Pellejo avanzó por el sendero de roca y musgo, la brisa salada de Xenothok ya a
 
 El aire vibraba con un zumbido lejano—como si miles de telarañas invisibles resonaran al mismo tiempo. Un destello plateado cruzó su visión periférica: una araña del tamaño de un dedo pulgar trepa por su brazo... pero no había araña.
 
-En la distancia, los faroles parpadeantes del puerto se reflejaban en aguas negras como tinta vieja. Alguien susurra desde las grietas entre las rocas:_ **"Xenothok no olvida..."** _Pero cuando Pellejo giró hacia el sonido, solo encuentra huevos secos pegados a la piedra—cascarones rotos hace mucho tiempo.
+En la distancia, los faroles parpadeantes del puerto se reflejaban en aguas negras como tinta vieja. Alguien susurra desde las grietas entre las rocas:_ **"Xenothok no olvida..."** Pero cuando Pellejo giró hacia el sonido, solo encuentra huevos secos pegados a la piedra—cascarones rotos hace mucho tiempo.
 
-La noche cubría la costa mientras Pellejo se abría paso por los callejones sinuosos y mal iluminados por candiles flotantes hechizados que iluminaban las calles de un tenebroso tono rojizo. Aunque la sombra protegía su identidad, no pudo escapar a los murmullos y miradas furtivas que le seguían como una nube de moscas. En las esquinas, grupos de figuras encapuchadas cuchicheaban en voz baja... y se detenían repentinamente cuando él se aproxima._
+La noche cubría la costa mientras Pellejo se abría paso por los callejones sinuosos y mal iluminados por candiles flotantes hechizados que iluminaban las calles de un tenebroso tono rojizo. Aunque la sombra protegía su identidad, no pudo escapar a los murmullos y miradas furtivas que le seguían como una nube de moscas. En las esquinas, grupos de figuras encapuchadas cuchicheaban en voz baja... y se detenían repentinamente cuando él se aproxima.
 
-_De repente, un mendigo lo agarró por el brazo con fuerza alarmante._
+De repente, un mendigo lo agarró por el brazo con fuerza alarmante.
 
 ¡Aparta tu asquerosa cara de mí! dijo el joven que ya se conocía las tretas de las gentes de aquel lugar podría intentar violarlo o coser a puñaladas o algo así pensó el joven.  
 Le incrusto fuertemente los nudillos en la cara deformando su horrible rostro en algo mas difícil de contemplar todavía y adornándolo con un rio bermellón que nacía desde el entrecejo y desembocaba en un mar de dientes rotos, repitió varias veces la operación y lo dejo allí quejándose y retorciéndose.  
@@ -28,15 +28,15 @@ Al cabo de un rato cuando ya había abandonado el poblado boscoso se percató de
 
 Pellejo buscó frenéticamente entre sus bolsillos, su frustración aumentando a medida que se daba cuenta de que le faltaba algo valioso. ¿Su daga? No, ahí estaba, bien protegida en su cinturón. ¿La bolsita con opio y yerbas curativas? Tampoco, la sentía intacta en su bolsa.
 
-_Entonces fue cuando sintió una punzada de pánico:_ _¿El saco?_
+Entonces fue cuando sintió una punzada de pánico:_ _¿El saco?_
 
-_Pellejo registraba sus pertenencias con urgencia, los dedos tamborileaban contra el cuero de su bolsa. Algo no encaja—el saco que la Orden le dio estába finalmente ahí... pero parece_ más pesado_. Como si hubiera echado raíces en la tela._
+Pellejo registraba sus pertenencias con urgencia, los dedos tamborileaban contra el cuero de su bolsa. Algo no encaja—el saco que la Orden le dio estába finalmente ahí... pero parece_ más pesado_. Como si hubiera echado raíces en la tela.
 
-_De pronto, un silbido agudo corta el aire detrás de él. Una figura encapuchada emerge de las sombras del callejón, arrastrando una pierna torcida y un rostro destrozado tras una paliza (la misma a la que Pellejo golpeó hace rato). Su boca un pozo negro de icor burbujeante cuando hablo le dijo:_  
+De pronto, un silbido agudo cortó el aire detrás de él. Una figura encapuchada emerge de las sombras del callejón, arrastrando una pierna torcida y un rostro destrozado tras una paliza (la misma a la que Pellejo golpeó hace rato). Su boca un pozo negro de icor burbujeante cuando hablo le dijo:_  
 **"Ese regalo no te pertenece... ni a ellos."**
 
-_Antes de que pueda reaccionar, otros tres mendigos se levantaron como marionetas rotas alrededor suyo—todos con rostros deformes por golpes idénticos a los suyos._
-
+Antes de que pueda reaccionar, otros tres mendigos se levantaron como marionetas rotas alrededor suyo—todos con rostros deformes por golpes idénticos a los suyos.
+![[Copilot_20260510_164124.png]]
 Le emboscaron tomo su mandoble y lo desenfundó a toda prisa contra aquella terrible abominación y rápidamente tomo la iniciativa,le asestó un estoque con bravura a una figura que pareció desvanecerse en el aire y al alzar su mandoble al darse la vuelta para dejarlo caer sobre otra de estas criaturas secciono en dos al que parecía ser el verdadero mendigo a deducir por el volcán de vísceras y tripas que le produjo el golpe junto con el grito que acabo siendo un gorgoteo de sangre verde que chorreaban como una fuente de la criatura.  
 Aparecieron cuatro mas de estas bestias mientras jadeaba exhausto por la terrible batalla no tuvo más remedio que echar a correr e intentarse perder por los oscuros pinos que se extendían mas allá del poblado
 
@@ -59,10 +59,11 @@ Al levantar la cabeza el paisaje había cambiado de nuevo se extendía ante el u
 
 Un gran valle con un río dorado que nacía de una montaña formada por estructuras cubicas como piedras de gigante bajo un cielo rojo y ominoso.
 
-Avanzo hacia la montaña cada vez más confundido pero guiado por la piedra de navegante cuando algo le paro el paso.![[Pasted image 20260510161242.png]]
+Avanzo hacia la montaña cada vez más confundido pero guiado por la piedra de navegante cuando algo le paro el paso.
+![[Copilot_20260510_164546 1.png]]
 -Alto ahí le dijo solo los malditos o los tocados pueden entrar en el Valle de Naghat.
 
 ¿Qué es eso que traes contigo?
 
-Dijo señalando el saco que le había dado a Pellejo la dama de la telaraña, mientras avanzaba hacia el desvainando una espada curva diseñada para destripar enemigos, se trataba de un ser enmascarado con una larga túnica negra con ribetes dorados y extraños símbolos roída por el tiempo. Al acercarse más Pellejo comprendió que era un espectro y corrió a sacar su mandoble para batirse en duelo cuando de repente sintió un mordisco en el cuello que lo lleno de dolor como si le clavaran un hierro ardiendo cerró los ojos y cuando los abrió despertó empapado en sudor en su cama. . . Una extraña araña blanca del tamaño de una cabeza humana frente a el mirandolo cara a cara con una mirada de ojos en los que se reflejaba Pellejo, era un ser blanquecino cubierto con extrañas runas cuyo origen era desconocido y de alguna manera sin emitir palabra ninguna mientras pellejo la miraba en la oscuridad de su cabaña solamente iluminado por la tenue luz de una vela:  
+Dijo señalando el saco que le había dado a Pellejo la dama de la telaraña, mientras avanzaba hacia el desvainando una espada curva diseñada para destripar enemigos, se trataba de un ser enmascarado con una larga túnica negra con ribetes dorados y extraños símbolos roída por el tiempo. Al acercarse más Pellejo comprendió que era un espectro y corrió a sacar su mandoble para batirse en duelo cuando de repente sintió un mordisco en el cuello que lo lleno de dolor como si le clavaran un hierro ardiendo cerró los ojos y cuando los abrió despertó empapado en sudor en su cama. . . Una extraña araña blanca del tamaño de una cabeza humana frente a el mirándolo cara a cara con una mirada de ojos en los que se reflejaba Pellejo, era un ser blanquecino cubierto con extrañas runas cuyo origen era desconocido y de alguna manera sin emitir palabra ninguna mientras pellejo la miraba en la oscuridad de su cabaña solamente iluminado por la tenue luz de una vela:  
 -Tranquilo has superado la prueba.
