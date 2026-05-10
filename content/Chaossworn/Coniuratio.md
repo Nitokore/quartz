@@ -1,3 +1,4 @@
+![[Copilot_20260510_163318.png]]
 Desde aquel insólito encuentro con la dama de la telaraña en el túmulo de los Alba Pellejo había observado como por las noches soñaba con un ser que se le presentaba como  
 Coniuratio, aunque no podía percibir su forma podía sentirlo por otros medios no sensoriales solo posibles del reino onírico.  
 Le urgió sin saber porqué también una necesidad sobrenatural de visitar la costa quebrada en concreto la ciclópea y barroca ciudad de Xenothok que es encontabra a tan solo unas millas del poblado boscoso del Karl.  
@@ -58,8 +59,7 @@ Al levantar la cabeza el paisaje había cambiado de nuevo se extendía ante el u
 
 Un gran valle con un río dorado que nacía de una montaña formada por estructuras cubicas como piedras de gigante bajo un cielo rojo y ominoso.
 
-Avanzo hacia la montaña cada vez más confundido pero guiado por la piedra de navegante cuando algo le paro el paso.
-![[Pasted image 20260510161242.png]]
+Avanzo hacia la montaña cada vez más confundido pero guiado por la piedra de navegante cuando algo le paro el paso.![[Pasted image 20260510161242.png]]
 -Alto ahí le dijo solo los malditos o los tocados pueden entrar en el Valle de Naghat.
 
 ¿Qué es eso que traes contigo?
