@@ -1,9 +1,4 @@
-***Fray Halvek:
-El Karl… es un enigma envuelto en misterios. No siempre dice toda la verdad.
-Pero lo que cuenta, es cierto.
-Toma, esto necesitaremos luz para enfrentarnos a la oscuridad.
-Ahora, ven. El tiempo se acaba. . .
-
+![[one_soceress__highly_detailed_trending_on_artstation_S2935841807_St25_G7.5.29.jpeg]]
 *Nadie en el asentamiento sabía que Pellejo albergaba a Coniuratio.
 Por las noches, cuando el viento barría las calles de barro y los fuegos se apagaban uno a uno, la dejaba escapar de la tienda donde dormía. . . 
 La criatura se deslizaba entre las sombras para alimentarse de ratas y gatos, saciando un hambre que no pertenecía a este mundo. 
@@ -12,7 +7,9 @@ Durante el día permanecía oculta, agazapada en los rincones más oscuros de la
 
 Aquel día, el Karl mandó llamar a Pellejo.
 La tormenta caía con furia. Truenos lejanos hacían temblar la tierra y la lluvia golpeaba los techos como un presagio de un terrible destino.
-El Karl no perdió el tiempo. Debía asegurar el paso de la Cascada Ensombrecida. Al caer la noche, pues algo se apoderaba de aquel lugar. La corrupción se filtraba en las aguas, y los habitantes del poblado —obligados a beber de ellas— comenzaban a enfermar con llagas que supuraban un pus negro y brillante. Los sacerdotes de la Orden de los Rectos acudían cada noche para purificar el río mediante antiguos rituales… pero en los últimos días, varios de ellos habían desaparecido sin dejar rastro, como si la misma oscuridad los hubiera tragado enteros.
+
+Debía asegurar el paso de la Cascada Ensombrecida. Al caer la noche, pues algo se apoderaba de aquel lugar, la corrupción se filtraba en las aguas y los habitantes del poblado —obligados a beber de ellas— comenzaban a enfermar con llagas que supuraban un pus negro y brillante. 
+Los sacerdotes de la Orden de los Rectos acudían cada noche para purificar el río mediante antiguos rituales… pero en los últimos días, varios de ellos habían desaparecido sin dejar rastro, como si la misma oscuridad los hubiera tragado enteros.
 
 Cerca de la cascada, en una cavidad abierta en la roca, se encontraba una pequeña cueva. Qué recibía el nombre del Cubil del Mal. Las historias hablaban de una monstruosa criatura que habitaba allí, pero nadie podía describirla con claridad. Solo susurros. Solo miedo. El río de Aguas negras nacía en la Montaña Negra, y sus aguas descendían oscuras, casi viscosas, cargadas de un olor a tumba antigua y metal oxidado. 
 
@@ -41,7 +38,7 @@ Pellejo no dudó. Saltó sobre su espalda, se aferró a aquella forma imposible 
 
 La oscuridad volvió a cerrarse. Los sacerdotes, temblorosos, apenas habían visto nada. Las criaturas se ocultaban bien. Demasiado bien.
 
-Krohm los interrogó. Le hablaron de lo ocurrido años atrás: una cuadrilla de hombres del [[ojo vigilante del Cielo]]. Guerreros que juraron proteger aquel lugar… y que fueron asesinados antes de cumplir sus votos y más tarde resucitados por los nigromantes. pudieron deducirlo por los restos de las ropas que todavía les quedaban.
+Pellejo los interrogó. Le hablaron de lo ocurrido años atrás: una cuadrilla de hombres del [[ojo vigilante del Cielo]]. Guerreros que juraron proteger aquel lugar… y que fueron asesinados antes de cumplir sus votos y más tarde resucitados por los nigromantes. pudieron deducirlo por los restos de las ropas que todavía les quedaban.
 Los sacerdotes no pertenecían al asentamiento del Karl. Eran miembros de la Orden de los Rectos, una cofradía de exorcistas dedicada a purificar aguas corruptas por todo  el Bosque de Glain, donde los pantanos y la podredumbre eran moneda común. Se sorprendieron al descubrir que el Karl no había compartido esa historia con Pellejo.
 
 Y en ese silencio, pesado como la lluvia, algo empezó a no encajar.
